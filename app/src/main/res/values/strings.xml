@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="usrcncl">Cancel</string>
+    <string name="sign_in">Sign in</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+</resources>
